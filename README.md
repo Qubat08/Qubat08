@@ -1,7 +1,6 @@
 <h3 align="left">Qui suis-je ?</h3>
 <p align="left">
-  Je suis BATISTE Quentin, actuellement en troisième année de licence informatique à l'URCA de REIMS
-</p>
+  Je suis BATISTE Quentin, actuellement en première année de master calcul haute performance et simulation à l'URCA de Reims
 
 <h3 align="left">Langages et outils:</h3>
 
