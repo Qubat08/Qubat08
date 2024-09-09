@@ -1,6 +1,6 @@
 <h3 align="left">Qui suis-je ?</h3>
 <p align="left">
-  Je suis BATISTE Quentin, actuellement en première année de master calcul haute performance et simulation à l'URCA de Reims
+  Je suis BATISTE Quentin, actuellement en deuxième année de master calcul haute performance et simulation à l'URCA de Reims
 
 <h3 align="left">Langages et outils:</h3>
 
